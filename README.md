@@ -1,1 +1,1 @@
-# Yfinance-Project-with-pyhton-and-mysql
+# Yfinance-Project-with-python-and-mysql
